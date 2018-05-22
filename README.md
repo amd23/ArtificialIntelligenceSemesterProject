@@ -1,0 +1,2 @@
+# ArtificialIntelligenceSemesterProject
+Handwritten Digit Recognition
